@@ -40,8 +40,8 @@ Open the HTML file: Open index.html in any web browser. You can do this by right
 ### 5. Deploy (Optional)
 To make your CV page live on the web, you can deploy it on platforms like:
 
-GitHub Pages: Easily host static websites by pushing your repository to GitHub.
-Netlify or Vercel: Free and easy-to-use platforms for hosting static websites.
+- **GitHub Pages**: Easily host static websites by pushing your repository to GitHub.
+- **Netlify or Vercel**: Free and easy-to-use platforms for hosting static websites.
 
 ### 6. View the Web Page with Favicon
 Once you've opened index.html in a browser, the favicon should appear in the browser tab. If you don't see it, try refreshing the page or clearing the browser cache.
