@@ -1,4 +1,5 @@
-# Pratham Mhavale CV Web Page - https://victorblade38.github.io/single-page-cv/
+# Pratham Mhavale CV Web Page 
+-https://victorblade38.github.io/single-page-cv/
 
 This project is a simple CV webpage designed using HTML and CSS, with an integrated favicon for branding. Follow the steps below to set up and use the project.
 
