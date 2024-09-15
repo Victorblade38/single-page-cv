@@ -47,4 +47,4 @@ To make your CV page live on the web, you can deploy it on platforms like:
 Once you've opened index.html in a browser, the favicon should appear in the browser tab. If you don't see it, try refreshing the page or clearing the browser cache.
 
 ### License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the `MIT License`.
