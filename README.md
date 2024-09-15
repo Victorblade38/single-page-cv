@@ -29,12 +29,13 @@ Download the ZIP: Go to the GitHub repository and download the ZIP file, then ex
 ```
 ### 3. Open the Web Page
 Open the HTML file: Open index.html in any web browser. You can do this by right-clicking on the file and selecting Open with... or by dragging the file into the browser.
+
 ### 4. Modify and Customize
-Update Content: Edit the index.html file to customize the CV details such as your name, skills, experience, etc.
+- **Update Content**: Edit the `index.html` file to customize the CV details such as your name, skills, experience, etc.
 
-Change Styles: Modify the styles.css file to change the layout, fonts, or colors to your preferences.
+- **Change Styles**: Modify the `styles.css` file to change the layout, fonts, or colors to your preferences.
 
-Update Favicon: Replace favicon.ico with your own favicon file if you want a custom icon for your page. Ensure the filename remains favicon.ico for it to be recognized.
+- **Update Favicon**: Replace `favicon.ico` with your own favicon file if you want a custom icon for your page. Ensure the filename remains `favicon.ico` for it to be recognized.
 
 ### 5. Deploy (Optional)
 To make your CV page live on the web, you can deploy it on platforms like:
