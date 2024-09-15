@@ -21,13 +21,14 @@ Download the ZIP: Go to the GitHub repository and download the ZIP file, then ex
 2. Project Structure
 Your project directory should look like this:
 
-bash
-Copy code
+- **Clone the repository**:
+```bash
 /project-folder
   ├── index.html        # Main HTML file
   ├── styles.css        # CSS file for styling
   ├── favicon.ico       # Favicon for browser tab
-3. Open the Web Page
+
+###3. Open the Web Page
 Open the HTML file: Open index.html in any web browser. You can do this by right-clicking on the file and selecting Open with... or by dragging the file into the browser.
 4. Modify and Customize
 Update Content: Edit the index.html file to customize the CV details such as your name, skills, experience, etc.
